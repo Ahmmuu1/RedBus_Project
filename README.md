@@ -49,3 +49,6 @@ Before running the application, ensure you have the following installed:
 - Necessary Python libraries: `pip install streamlit pandas mysql-connector-python selenium`
 
 pip install streamlit pandas mysql-connector-python selenium
+
+
+[Link to PDF](file:///D:/RED%20Bus/Red_Bus_Scrap_Streamlit.pdf)
