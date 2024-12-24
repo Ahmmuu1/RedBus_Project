@@ -1,4 +1,4 @@
-# RedBus_Project
+# Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit
 
 
 ## 🚌 Data Scraping & Interactive Streamlit Application
