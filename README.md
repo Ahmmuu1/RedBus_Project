@@ -3,7 +3,7 @@
 
 ## 🚌 Data Scraping & Interactive Streamlit Application
 
-![Redbus](https://media.licdn.com/dms/image/v2/D5612AQFzIblXrT9Rzw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1724921675098?e=2147483647&v=beta&t=n9X8yGE6YC16MIX6YsDk8BjxWBleAqq9n0zcAWFBfi4.jpg)
+![Redbus](https://media.licdn.com/dms/image/v2/D5612AQFzIblXrT9Rzw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1724921675098?e=2147483647&v=beta&t=n9X8yGE6YC16MIX6YsDk8BjxWBleAqq9n0zcAWFBfi4)
 
 ## 🌟Introduction
 
