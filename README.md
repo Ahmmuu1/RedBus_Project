@@ -2,7 +2,7 @@
 
 # Redbus Data Scraping & Interactive Streamlit Application
 
-![Redbus Logo](/images/aa_.jpg)
+![Redbus](https://i.ytimg.com/vi/udtnXbuVKeg/maxresdefault.jpg)
 
 ## Project Objective
 
