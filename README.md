@@ -51,4 +51,4 @@ Before running the application, ensure you have the following installed:
 pip install streamlit pandas mysql-connector-python selenium
 
 
-[Link to PDF](file:///D:/RED%20Bus/Red_Bus_Scrap_Streamlit.pdf)
+[Link to PDF](https://github.com/Khatalahmed/RedBus_Project/blob/main/Red_Bus_Scrap_Streamlit.pdf)
