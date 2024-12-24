@@ -1,7 +1,7 @@
 # RedBus_Project
 
 
-# 🚌 Data Scraping & Interactive Streamlit Application
+## 🚌 Data Scraping & Interactive Streamlit Application
 
 ![Redbus](https://i.ytimg.com/vi/udtnXbuVKeg/maxresdefault.jpg)
 
@@ -23,12 +23,13 @@ To elevate the user experience in browsing and selecting bus routes through a so
 - 
 - **💾 MySQL Integration:** Utilizes MySQL for efficient data storage and retrieval, ensuring rapid access to the most up-to-date bus information.
 
-
 - **🔍 Automated Data Scraping**: Leverages Selenium for automated, reliable extraction of bus data from Redbus, focusing on accuracy and timeliness.
 
 - **🔧 Robust Database Management**: Utilizes MySQL to store scraped data, allowing for efficient data retrieval and complex querying capabilities necessary for providing real-time information.
 
 - **📊 Streamlit Dashboard**: Offers users a powerful, user-friendly interface to interactively search, filter, and analyze bus routes, enhancing user engagement and decision-making efficiency.
+
+  
 
 ## 🛠 Technologies Used
 
@@ -37,6 +38,7 @@ To elevate the user experience in browsing and selecting bus routes through a so
 - **Selenium**: For automating web browsers to scrape data.
 - **MySQL**: As the database for storing and managing data.
 - **Pandas**: For data manipulation and analysis.
+- 
 
 ## 📈 Getting Started
 
