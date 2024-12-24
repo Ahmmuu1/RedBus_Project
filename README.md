@@ -16,11 +16,11 @@ To elevate the user experience in browsing and selecting bus routes through a so
 ## 🚀 Key Features
 
 - **🔍 Interactive Dashboard:** A sleek, user-friendly interface to explore bus routes based on various criteria such as bus type, fare range, timings, and ratings.
-- 
+
 - **🔧 Dynamic Filtering:** Advanced filtering options to refine searches, allowing users to customize their travel preferences.
-- 
+
 - **📊 Data Visualization:** Displays detailed bus route data in an organized tabular format, complete with sorting and filtering capabilities for an enriched user experience.
-- 
+
 - **💾 MySQL Integration:** Utilizes MySQL for efficient data storage and retrieval, ensuring rapid access to the most up-to-date bus information.
 
 - **🔍 Automated Data Scraping**: Leverages Selenium for automated, reliable extraction of bus data from Redbus, focusing on accuracy and timeliness.
